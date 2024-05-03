@@ -1,0 +1,159 @@
+Fall - Fell - Fallen
+Fly - Flew - Flown
+Forbid - Forbade - Forbidden
+Foresee - Foresaw - Foreseen
+Forget - Forgot - Forgotten
+Forgive - Forgave - Forgiven
+Forsake - Forsook - Forsaken
+Freeze - Froze - Frozen
+Frostbite - Frostbit - Frostbitten
+Get - Got - Gotten / Got
+Give - Gave - Given
+Go - Went - Gone
+Grow - Grew - Grown
+Hew - Hewed - Hewn / Hewed
+Hide - Hid - Hidden
+Saw - Sawed - Sawed / Sawn
+Sew - Sewed - Sewn / Sewed
+Shake - Shook - Shaken
+Shave - Shaved - Shaved / Shaven
+Shear - Sheared - Sheared / Shorn
+Shine - Shined / Shone - Shined / Shone
+Shit - Shit / Shat / Shitted - Shit / Shat / Shitted
+Show - Showed - Shown / Showed
+Shrink - Shrank  - Shrunk
+Slay (kill) - Slew / Slayed - Slain / Slayed
+Slay (amuse) - Slayed - Slayed
+Sow - Sowed - Sown / Sowed
+Speak - Spoke - Spoken
+Spit - Spit / Spat - Spit / Spat
+Spring - Sprang - Sprung
+Steal - Stole - Stolen
+Stink - Stank - Stunk
+Strew - Strewed - Strewn / Strewed
+Stride - Strode - Stridden
+Strike (delete) - Struck - Stricken
+Strike (hit) - Struck - Struck / Stricken
+Strive - Strove - Striven 
+Swear - Swore - Sworn
+Sweat - Sweat / Sweated - Sweat / Sweated
+Swell - Swelled - Swollen / Swelled
+Swim - Swam - Swum
+See - Saw - Seen
+Sing - Sang - Sung
+Take - Took - Taken
+Tear - Tore - Torn
+Throw - Threw - Thrown
+Tread - Trod - Trodden
+Light - lit - Lit
+Teach - Taught - Taught
+Tell - Told - Told
+Think - Thought - Thought
+Thrust - Thrust
+Say - Said - Said
+Seek - Sought - Sought
+Sell - Sold - Sold
+Send - Sent - Sent
+Shoot - Shot - Shot
+Sit - Sat - Sat
+each - Taught - Taught
+Tell - Told - Told
+Think - Thought - Thought
+Thrust - Thrust
+Say - Said - Said
+Seek - Sought - Sought
+Sell - Sold - Sold
+Send - Sent - Sent
+Shoot - Shot - Shot
+Sit - Sat - Sat
+Sink - Sank  - Sunk
+Sleep - Slept - Slept
+Slide - Slid - Slid
+Sling - Slung - Slung
+Slink -  Slunk - Slunk
+Smell - Smelt - Smelt
+Sneak - Snuck - Snuck
+Speed - Sped  - Sped
+Spell - Spelt - Spelt
+Spend - Spent - Spent
+Spill - Spilt - Spilt
+Spin - Spun - Spun
+Feed - Fed - Fed
+Feel - Felt - Felt
+Fight - Fought - Fought
+Find - Found - Found
+Flee - Fled - Fled
+Fling - Flung - Flung
+Grind - Ground - Ground
+Hang - Hung - Hung
+Have - Had - Had
+Hear - Heard - Heard
+Hold - Held - Held
+Keep - Kept - Kept
+Kneel - Knelt - Knelt
+breed - bred - bred
+Burn - Burnt- Burnt 
+build - built - built
+Catch - Caught - Caught
+Cling - Clung - Clung
+Creep - Crept - Crept
+Clothe - Clothed / Clad - Clothed / Clad
+Dwell - Dwelt  - Dwelt
+Deal - Dealt - Dealt
+Dig - Dug - Dug
+Dream - Dreamt - Dreamt
+Spoil - Spoilt - Spoilt
+Stand - Stood - Stood
+Stick - Stuck - Stuck
+Sting - Stung - Stung
+String - Strung - Strung
+Sunburn - Sunburnt - Sunburnt
+Sweep - Swept - Swept
+Swing - Swung - Swung
+Pay - Paid - Paid
+Weep - Wept - Wept
+Whet - Whetted - Whetted
+Win - Won - Won
+Wind - Wound - Wound
+Wring - Wrung - Wrung
+Lay - Laid - Laid
+Lead - Led - Led
+Lean - Leant - Leant
+Leap - Leapt - Leapt
+Learn - Learnt - Learnt
+Leave - Left - Left
+Lend - Lent - Lent
+Lie - Lay - Lain
+Lie - Lied - Lied
+Light - Lit / Lighted - Lit / Lighted
+Lose - Lost - Lost
+Know - Knew - Known
+Make - Made - Made
+Mean - Meant - Meant
+Meet - Met - Met
+Mow - Mowed - Mowed / Mown
+Choose - Chose - Chosen
+Come - Came - Come
+Dive - Dove / Dived - Dived
+Dive - Dived / Dove - Dived
+Do - Did - Done
+Draw - Drew - Drawn
+Drink - Drank - Drunk
+Drive - Drove - Driven
+Eat - Ate - Eaten
+Partake - Partook - Partaken
+Plead - Pleaded / Pled - Pleaded / Pled
+Prove - Proved - Proven / Proved
+Read - Read - Read
+Rebid - Rebid - Rebid
+Rebind - Rebound - Rebound
+Relay - Relaid - Relaid
+Relay - Relayed - Relayed
+Ride - Rode - Ridden
+Ring - Rang - Rung
+Rise - Rose - Risen
+Run - Ran - Run
+Wake - Woke  - Woken
+Wear - Wore - Worn
+Weave - Wove - Woven
+Write - Wrote - Written
